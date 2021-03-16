@@ -1,0 +1,12 @@
+日常大杂烩
+1、string
+2、注解
+3、异步方式
+4、bigdecimal
+5、jdk8
+6、json
+7、jvm
+8、代理
+9、reflect
+10、threadlocal
+11、mq
